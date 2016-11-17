@@ -3,5 +3,12 @@ body {
 }
 
 ul {
-    border: 1px black solid
+  border: 1px black solid;
+}  
+
+img {
+  height: 200px;
+  width: 360px;
+  border: 2px green dashed;
+  padding: 5px;
 }  
