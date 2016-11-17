@@ -16,3 +16,8 @@ img {
 #first-ingredient {
    color: pink;
 }  
+
+.section-heading {
+  background-color: #00ff00;
+  font-style: italic;
+}
